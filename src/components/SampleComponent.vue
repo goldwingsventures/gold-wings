@@ -34,7 +34,7 @@ const products = [
     href: '#',
     icon: CursorArrowRaysIcon,
   },
-  { name: 'Security', description: 'Your customers’ data will be safe and secure', href: '#', icon: FingerPrintIcon },
+  { name: 'Security', description: 'Your customers data will be safe and secure', href: '#', icon: FingerPrintIcon },
   {
     name: 'Integrations',
     description: 'Your customers’ data will be safe and secure',
