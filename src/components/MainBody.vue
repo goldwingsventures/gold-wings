@@ -17,7 +17,7 @@
 </style>
 <template>
   <main class="relative bg-black min-h-screen flex justify-center items-center backdrop-blur-3xl" >
-    <div class="flex flex-col align-middle items-center justify-center" style="max-width: fit-content ; height: auto;">
+    <div class="flex flex-col align-middle items-center justify-center" style="max-width: fit-content ; height: auto; overflow: hidden">
       <div class="text-white text-9xl text-center mb-8">
         <h1>Coming Soon...</h1>
       </div>
